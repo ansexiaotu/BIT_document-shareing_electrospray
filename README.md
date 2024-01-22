@@ -15,7 +15,7 @@ use zotero and onedrive to realize document shareing
 3.使用onedrive（windows自带）
 
 	登录账号：查看“登录onedrive.zip”，解压密码询问本课题组杜泽*。
-	该云盘需要storage,styles,translators三个文件夹内容,切勿在随意云盘上传文件。
+	该云盘需要storage,styles,translators三个文件夹内容,切勿在随意云盘上传文件，以及删除文件。
 
 4.将onedrive云和自己的zotero绑定
 		
@@ -31,5 +31,6 @@ use zotero and onedrive to realize document shareing
 5.为提升体验需对zotero设置
 
 	5.1 编辑-首选项-同步-将自动同步取消勾选，文件同步下两个也要取消勾选
+ 	5.2 登录Zotero；账号和密码仍在登录的压缩包中
 
 	
